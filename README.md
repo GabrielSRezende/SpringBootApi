@@ -1,2 +1,2 @@
 # SpringBootApi
-Projeto desenvolvido como aprendizado, do curso de Spring Boot Api Rest.
+Projeto desenvolvido como aprendizado, do curso de Spring Boot Api REST.
